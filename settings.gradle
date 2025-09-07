@@ -1,1 +1,3 @@
 rootProject.name = 'MySQL Player Sync'
+include 'api'
+include 'paper'
