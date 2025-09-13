@@ -36,7 +36,7 @@ mehrere Server hinweg synchronisieren kannst – vollständig NBT-kompatibel und
 1. Lade die neueste Version von [GitHub](https://github.com/Dolfirobots/PlayerSyncer/releases) oder Spigot (Coming Soon) herunter.
 2. Lege die `.jar`-Datei in deinen Server-Ordner `/plugins/`
 3. Starte den Server neu, um die Konfigurationsdateien generieren zu lassen.
-4. Richte die [Datenbank](#) ein und passe die Konfigurationsdateien an.
+4. Richte die [Datenbank](#-datenbank-einrichtung) ein und passe die Konfigurationsdateien an.
 5. Neustarten → Fertig!
 
 ---
@@ -112,6 +112,7 @@ Dieses Projekt ist unter der [MIT License](./LICENSE) lizenziert.
 * Fehler gefunden? → [Issue erstellen](https://github.com/DeinUser/PlayerSyncer/issues)
 * Feature-Wunsch? → [Join auf Discord](https://discord.gg/dxZTGpPbkd "Discord")
 * Du möchtest selbst beitragen? → Fork das Repo und sende einen Pull Request
+
 
 
 
