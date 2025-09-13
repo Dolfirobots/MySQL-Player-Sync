@@ -5,7 +5,7 @@
 > **[[🇩🇪] *Deutsch*](./README_DE.md)**  
 > **[[🇬🇧] English](./README.md)**
 
-[![License](https://img.shields.io/github/license/Dolfirobots/MySQL-Player-Sync?style=flat-square)](./LICENSE)
+[![License](https://img.shields.io/github/license/Dolfirobots/MySQL-Player-Sync?style=square)](./LICENSE)
 [![GitHub Dowloads](https://shields.io/github/downloads/Dolfirobots/MySQL-Player-Sync/total?label=Downloads&logoColor=Green&color=Blue&style=flat)](https://github.com/Dolfirobots/MySQL-Player-Sync/releases)
 [![GitHub Release](https://img.shields.io/github/v/release/Dolfirobots/MySQL-Player-Sync?color=Green)](https://github.com/Dolfirobots/OnlyProxy/releases "OnlyProxy Releases")
 [![Discord](https://img.shields.io/discord/1079052573845241877.svg?logo=discord&logoColor=Green&color=Blue&labelColor=Green)](https://discord.gg/dxZTGpPbkd "Discord")
@@ -112,4 +112,5 @@ Dieses Projekt ist unter der [MIT License](./LICENSE) lizenziert.
 * Fehler gefunden? → [Issue erstellen](https://github.com/DeinUser/PlayerSyncer/issues)
 * Feature-Wunsch? → [Join auf Discord](https://discord.gg/dxZTGpPbkd "Discord")
 * Du möchtest selbst beitragen? → Fork das Repo und sende einen Pull Request
+
 
