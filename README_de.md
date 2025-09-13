@@ -45,7 +45,7 @@ mehrere Server hinweg synchronisieren kannst – vollständig NBT-kompatibel und
 
 Nach dem ersten Start findest du die Konfigurationsdatein in `/plugins/PlayerSync/`  
 
-### `config.yml`:
+`config.yml`:
 COOMING SOON!
 
 ---
@@ -112,5 +112,6 @@ Dieses Projekt ist unter der [MIT License](./LICENSE) lizenziert.
 * Fehler gefunden? → [Issue erstellen](https://github.com/DeinUser/PlayerSyncer/issues)
 * Feature-Wunsch? → [Join auf Discord](https://discord.gg/dxZTGpPbkd "Discord")
 * Du möchtest selbst beitragen? → Fork das Repo und sende einen Pull Request
+
 
 
