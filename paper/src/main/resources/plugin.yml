@@ -1,7 +1,7 @@
-name: Player Sync
+name: PlayerSyncer
 version: '1.0'
 main: net.dolfirobots.Main
 api-version: '1.21'
 authors: [ Dolfirobots ]
-description: A Minecraft Database Player Sync between Servers
+description: A Minecraft Database Player Syncer to sync Player Data between Servers
 website: https://github.com/dolfirobots/BetterSecurePlugin
